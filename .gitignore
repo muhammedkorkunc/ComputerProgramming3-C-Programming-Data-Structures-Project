@@ -2,7 +2,6 @@
 *.exe
 output.exe
 program.exe
-BP3ProjeRaporu_*.pdf
 watermark*.py
 sign_*.py
 /tmp/clean_c_wm.pdf
