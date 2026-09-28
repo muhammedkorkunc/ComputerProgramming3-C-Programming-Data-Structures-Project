@@ -1,0 +1,20 @@
+Ogrenci 1:
+Adi: Ali Can
+Bolum: Bilgisayar Muhendisligi
+Ortalama: 66.75
+Aldigi Dersler:
+Ders 1: Matematik, Kredi: 3, Puan: 80
+Ders 2: Fizik, Kredi: 4, Puan: 85
+Ders 3: Kimya, Kredi: 5, Puan: 55
+Ders 4: Biyoloji, Kredi: 8, Puan: 60
+
+Ogrenci 2:
+Adi: Yavuz Kerem
+Bolum: Bilgisayar Muhendisligi
+Ortalama: 51.70
+Aldigi Dersler:
+Ders 1: Matematik, Kredi: 3, Puan: 95
+Ders 2: Fizik, Kredi: 4, Puan: 75
+Ders 3: Kimya, Kredi: 5, Puan: 45
+Ders 4: Biyoloji, Kredi: 8, Puan: 28
+
